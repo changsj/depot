@@ -1,6 +1,6 @@
 #### Depot - Project from " Agile Web Development with Rails 4 (2013) "
 
-Following the " Agile Web Development with Rails 4 (2013)" [1] [2]
+Following the " Agile Web Development with Rails 4 (2013)" [2]
 
 Book environment for reference: Ruby 2.0 and Rails 4.0.
 
@@ -8,7 +8,7 @@ My environment: Ruby 2.1.3 and Rails 4.1.6.
 
 #### Code source
 
-1. The book " Agile Web Development with Rails 4 (2013) "
+1. The footer comments of book " Agile Web Development with Rails 4 (2013) " [1]
 2. [Code reference] for check.
 
 #### Warning
