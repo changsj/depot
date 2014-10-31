@@ -146,3 +146,218 @@ Started GET "/assets/ruby.jpg" for 127.0.0.1 at 2014-10-30 23:10:14 +0800
 
 
 Started GET "/assets/rtp.jpg" for 127.0.0.1 at 2014-10-30 23:10:14 +0800
+
+
+Started GET "/" for 127.0.0.1 at 2014-10-30 23:40:38 +0800
+  [1m[36mActiveRecord::SchemaMigration Load (0.2ms)[0m  [1mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+Processing by StoreController#index as HTML
+  Rendered store/index.html.erb within layouts/application (35.8ms)
+Completed 200 OK in 5023ms (Views: 4817.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2014-10-30 23:40:48 +0800
+Processing by StoreController#index as HTML
+  Rendered store/index.html.erb within layouts/application (0.1ms)
+Completed 200 OK in 66ms (Views: 64.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/store.css?body=1" for 127.0.0.1 at 2014-10-30 23:40:49 +0800
+
+
+Started GET "/assets/store.css?body=1" for 127.0.0.1 at 2014-10-30 23:40:49 +0800
+
+
+Started GET "/assets/products.css?body=1" for 127.0.0.1 at 2014-10-30 23:40:49 +0800
+
+
+Started GET "/assets/store.js?body=1" for 127.0.0.1 at 2014-10-30 23:40:49 +0800
+
+
+Started GET "/assets/store.js?body=1" for 127.0.0.1 at 2014-10-30 23:40:49 +0800
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-10-30 23:40:49 +0800
+
+
+Started GET "/assets/scaffolds.css?body=1" for 127.0.0.1 at 2014-10-30 23:40:49 +0800
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-10-30 23:40:49 +0800
+
+
+Started GET "/assets/products.js?body=1" for 127.0.0.1 at 2014-10-30 23:40:49 +0800
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-10-30 23:40:49 +0800
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-10-30 23:40:49 +0800
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-10-30 23:40:49 +0800
+
+
+Started GET "/assets/products.css?body=1" for 127.0.0.1 at 2014-10-30 23:40:49 +0800
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-10-30 23:40:49 +0800
+
+
+Started GET "/assets/scaffolds.css?body=1" for 127.0.0.1 at 2014-10-30 23:40:49 +0800
+
+
+Started GET "/assets/products.js?body=1" for 127.0.0.1 at 2014-10-30 23:40:49 +0800
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-10-30 23:40:49 +0800
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-10-30 23:40:49 +0800
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-10-30 23:40:49 +0800
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-10-30 23:40:49 +0800
+
+
+Started GET "/" for 127.0.0.1 at 2014-10-31 00:05:03 +0800
+Processing by StoreController#index as HTML
+  [1m[35mProduct Load (1.1ms)[0m  SELECT "products".* FROM "products"   ORDER BY "products"."title" ASC
+  Rendered store/index.html.erb within layouts/application (443.2ms)
+Completed 200 OK in 762ms (Views: 712.1ms | ActiveRecord: 1.8ms)
+
+
+Started GET "/assets/products.css?body=1" for 127.0.0.1 at 2014-10-31 00:05:05 +0800
+
+
+Started GET "/assets/scaffolds.css?body=1" for 127.0.0.1 at 2014-10-31 00:05:05 +0800
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-10-31 00:05:05 +0800
+
+
+Started GET "/assets/store.css?body=1" for 127.0.0.1 at 2014-10-31 00:05:05 +0800
+
+
+Started GET "/assets/store.js?body=1" for 127.0.0.1 at 2014-10-31 00:05:05 +0800
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-10-31 00:05:05 +0800
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-10-31 00:05:05 +0800
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-10-31 00:05:05 +0800
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-10-31 00:05:05 +0800
+
+
+Started GET "/assets/products.js?body=1" for 127.0.0.1 at 2014-10-31 00:05:05 +0800
+
+
+Started GET "/assets/cs.jpg" for 127.0.0.1 at 2014-10-31 00:05:05 +0800
+
+
+Started GET "/assets/ruby.jpg" for 127.0.0.1 at 2014-10-31 00:05:05 +0800
+
+
+Started GET "/assets/rtp.jpg" for 127.0.0.1 at 2014-10-31 00:05:05 +0800
+
+
+Started GET "/" for 127.0.0.1 at 2014-10-31 12:15:59 +0800
+  [1m[36mActiveRecord::SchemaMigration Load (0.1ms)[0m  [1mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+Processing by StoreController#index as HTML
+  [1m[35mProduct Load (0.4ms)[0m  SELECT "products".* FROM "products"   ORDER BY "products"."title" ASC
+  Rendered store/index.html.erb within layouts/application (69.1ms)
+Completed 200 OK in 511ms (Views: 453.8ms | ActiveRecord: 0.8ms)
+
+
+Started GET "/assets/products.css?body=1" for 127.0.0.1 at 2014-10-31 12:16:01 +0800
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-10-31 12:16:01 +0800
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-10-31 12:16:01 +0800
+
+
+Started GET "/assets/products.js?body=1" for 127.0.0.1 at 2014-10-31 12:16:01 +0800
+
+
+Started GET "/assets/store.js?body=1" for 127.0.0.1 at 2014-10-31 12:16:01 +0800
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-10-31 12:16:01 +0800
+
+
+Started GET "/assets/scaffolds.css?body=1" for 127.0.0.1 at 2014-10-31 12:16:01 +0800
+
+
+Started GET "/assets/store.css?body=1" for 127.0.0.1 at 2014-10-31 12:16:01 +0800
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-10-31 12:16:01 +0800
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-10-31 12:16:01 +0800
+
+
+Started GET "/assets/cs.jpg" for 127.0.0.1 at 2014-10-31 12:16:01 +0800
+
+
+Started GET "/assets/ruby.jpg" for 127.0.0.1 at 2014-10-31 12:16:01 +0800
+
+
+Started GET "/assets/rtp.jpg" for 127.0.0.1 at 2014-10-31 12:16:01 +0800
+
+
+Started GET "/" for 127.0.0.1 at 2014-10-31 12:49:53 +0800
+Processing by StoreController#index as HTML
+  [1m[36mProduct Load (0.4ms)[0m  [1mSELECT "products".* FROM "products"   ORDER BY "products"."title" ASC[0m
+  Rendered store/index.html.erb within layouts/application (117.2ms)
+Completed 200 OK in 255ms (Views: 253.2ms | ActiveRecord: 0.4ms)
+
+
+Started GET "/assets/products.css?body=1" for 127.0.0.1 at 2014-10-31 12:49:54 +0800
+
+
+Started GET "/assets/scaffolds.css?body=1" for 127.0.0.1 at 2014-10-31 12:49:54 +0800
+
+
+Started GET "/assets/store.css?body=1" for 127.0.0.1 at 2014-10-31 12:49:54 +0800
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-10-31 12:49:54 +0800
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-10-31 12:49:54 +0800
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-10-31 12:49:54 +0800
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-10-31 12:49:54 +0800
+
+
+Started GET "/assets/products.js?body=1" for 127.0.0.1 at 2014-10-31 12:49:54 +0800
+
+
+Started GET "/assets/store.js?body=1" for 127.0.0.1 at 2014-10-31 12:49:54 +0800
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-10-31 12:49:54 +0800
+
+
+Started GET "/assets/logo.png" for 127.0.0.1 at 2014-10-31 12:49:54 +0800
+
+
+Started GET "/assets/cs.jpg" for 127.0.0.1 at 2014-10-31 12:49:54 +0800
+
+
+Started GET "/assets/ruby.jpg" for 127.0.0.1 at 2014-10-31 12:49:54 +0800
+
+
+Started GET "/assets/rtp.jpg" for 127.0.0.1 at 2014-10-31 12:49:54 +0800
